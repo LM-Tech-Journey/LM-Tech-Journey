@@ -2,7 +2,7 @@
 
 
 ## About Me
-As a Desktop Support Manager, I am deeply motivated to progress into more technical roles within the industry while actively assisting others in their career transitions. With a blend of foundational and advanced experience across various tools and technologies, I am here to share my journey, skills, and projects, aiming to inspire and support anyone seeking to maximize their potential.
+As a Desktop Support Manager, I am deeply motivated to progress into more technical roles within the industry whilst actively assisting others in their career transitions. With a blend of foundational and advanced experience across various tools and technologies, I am here to share my journey, skills, and projects, aiming to inspire and support anyone seeking to maximize their potential.
 
 ## 🛠 Tools & Technologies
 
